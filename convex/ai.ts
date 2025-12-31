@@ -2,7 +2,7 @@ import { action } from "./_generated/server";
 import { v } from "convex/values";
 
 // Gemini API configuration (use ENV vars in production!)
-const GEMINI_API_KEY = "AIzaSyA-feM4Gc6K7dbiIhNHKmD7GDQAUtdsunA";
+const GEMINI_API_KEY = "";
 const GEMINI_API_URL = `https://generativelanguage.googleapis.com/v1/models/gemini-2.0-flash:generateContent?key=${GEMINI_API_KEY}`;
 
 // Unsplash API configuration
