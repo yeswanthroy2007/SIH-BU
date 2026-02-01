@@ -1,5 +1,7 @@
 Tech Stack ->
 gemini api
-next js
+React
+express.js
+node.js
 typescript
 convex
